@@ -1,0 +1,13 @@
+C:\Users\Harshvardhan Gupta\source\repos\MovieLibrary\bin\Debug\net8.0\MovieLibrary.dll.config
+C:\Users\Harshvardhan Gupta\source\repos\MovieLibrary\bin\Debug\net8.0\MovieLibrary.deps.json
+C:\Users\Harshvardhan Gupta\source\repos\MovieLibrary\bin\Debug\net8.0\MovieLibrary.dll
+C:\Users\Harshvardhan Gupta\source\repos\MovieLibrary\bin\Debug\net8.0\MovieLibrary.pdb
+C:\Users\Harshvardhan Gupta\source\repos\MovieLibrary\obj\Debug\net8.0\MovieLibrary.csproj.AssemblyReference.cache
+C:\Users\Harshvardhan Gupta\source\repos\MovieLibrary\obj\Debug\net8.0\MovieLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harshvardhan Gupta\source\repos\MovieLibrary\obj\Debug\net8.0\MovieLibrary.AssemblyInfoInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\MovieLibrary\obj\Debug\net8.0\MovieLibrary.AssemblyInfo.cs
+C:\Users\Harshvardhan Gupta\source\repos\MovieLibrary\obj\Debug\net8.0\MovieLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\MovieLibrary\obj\Debug\net8.0\MovieLibrary.dll
+C:\Users\Harshvardhan Gupta\source\repos\MovieLibrary\obj\Debug\net8.0\refint\MovieLibrary.dll
+C:\Users\Harshvardhan Gupta\source\repos\MovieLibrary\obj\Debug\net8.0\MovieLibrary.pdb
+C:\Users\Harshvardhan Gupta\source\repos\MovieLibrary\obj\Debug\net8.0\ref\MovieLibrary.dll
